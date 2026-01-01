@@ -25,9 +25,9 @@
 - <a href="#data-setup">🧠 Data Setup</a>  
 - <a href="#tools-technologies">🧰 Tools & Features Used</a>  
 - <a href="#key-insights">📊 Key Insights</a>  
-- <a href="#use-cases">🚀 Use Cases</a>  
-- <a href="#project-snapshot">🖼️ Dashboard Snapshot</a>  
+- <a href="#use-cases">🚀 Use Cases</a>
 - <a href="#contact">📬 Connect With Me</a>  
+- <a href="#project-snapshot">🖼️ Dashboard Snapshot</a>  
 
 ---
 
@@ -244,13 +244,6 @@ The dashboard consists of:
 
 ---
 
-## <span id="project-snapshot">🖼️ Dashboard Snapshot</span>
-
-![Delhi Travel Guide Preview](Road%20Accident%20Presentation.jpg)  
-![Delhi Travel Guide Overview](Final%20Dashboard.png)  
-
----
-
 ## <span id="contact">📬 Connect With Me</span>
 
 - **Name**: Rajeev Tiwari  
@@ -262,3 +255,12 @@ The dashboard consists of:
 ---
 
 ⭐ *If you found this project useful, feel free to star the repository!*  
+
+---
+
+## <span id="project-snapshot">🖼️ Dashboard Snapshot</span>
+
+![Delhi Travel Guide Preview](Road%20Accident%20Presentation.jpg)  
+![Delhi Travel Guide Overview](Final%20Dashboard.png)  
+
+---
